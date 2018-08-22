@@ -46,7 +46,7 @@ class App extends Component {
       {
         id: uuid.v4(),
         title: 'Ecommerce Shopping Cart',
-        category: 'Web Development'
+        category: 'Photography'
       },
     ]});
   }
